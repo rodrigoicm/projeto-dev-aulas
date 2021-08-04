@@ -1,0 +1,22 @@
+header{
+    background-color: #FF0000;
+}
+
+h3{
+    font-size: 60px;
+}
+
+.conteudoInicial{
+    background-color: aqua;
+}
+.conteudoInicial.color-blue{
+    background-color: blue;
+}
+
+#titulo-strong{
+    font-size: 70px;
+}
+
+img[scr]{
+    width: 50px;
+}
